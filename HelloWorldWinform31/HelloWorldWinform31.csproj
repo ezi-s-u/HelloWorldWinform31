@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="miffy.jpg" />
+    <Content Include="waiter_icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
